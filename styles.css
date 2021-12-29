@@ -1,7 +1,47 @@
-    .main-content{
-border: 5px solid red;
+body {
+    background-color: rgb(95, 214, 235);
+}
+
+.header{
+background-color: rgb(124, 10, 238);
     }
-    ul {
-        list-style: none;
-    }
+
+.nav_bar{
+        background-color: darkgrey;
+        padding: 5px;
+         
+}
+
+.main-content {
+ 
+    margin-left: 10px;
+    background-color: thistle;
+}
+
+.aside{
+    background-color: rgb(240, 116, 116);
+   
+}
+
+.footer1 {
+    background-color: rgb(129, 116, 219);
+}
+
+ul {
+    list-style-type: none;  
+   
+}
+
+li{
+    display: inline-block;
+    margin: 20px 100px;
+}
+
+a{
+    color:white;
+}
+a:hover{
+color: yellow;
+
+}
 
